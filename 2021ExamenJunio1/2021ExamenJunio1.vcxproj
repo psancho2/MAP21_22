@@ -24,6 +24,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\Dropbox\ucm\docencia\20_21\FP II\Entregas alumnos\Exámenes\Ordinaria\ALEJANDRO GÓMEZ MARTÍN_2136200_assignsubmission_file_\Alejandro Gomez Ejercicio1 Examen.cpp" />
+    <ClCompile Include="addColor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="addColor.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
